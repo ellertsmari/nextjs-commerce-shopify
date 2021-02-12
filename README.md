@@ -26,7 +26,7 @@ Collection of hooks and data fetching functions to integrate Shopify in a React 
 ### Installation
 
 ```
-yarn install nextjs-commerce-shopify
+yarn add nextjs-commerce-shopify
 ```
 
 ### CommerceProvider
